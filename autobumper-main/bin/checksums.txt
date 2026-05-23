@@ -1,0 +1,9 @@
+46081f751d6c8044e2864c4039e45d0d10351c8bf0c014390c4cf501f578d30f  autobumper-darwin-amd64-v0.0.4.tar.gz
+8827dfae31dfef0fe6f0a6ede9e5ed7d1e3bd14040b87bb3584184999dc776f9  autobumper-darwin-arm64-v0.0.4.tar.gz
+2ee22834b9aef79252db7b27c635357b71fa11b0df012197f6334e144530dc2b  autobumper-linux-386-v0.0.4.tar.gz
+e7a46e2534864f8dc8eecc59f9d247462f4af57914c23421007f1dad246f7f07  autobumper-linux-amd64-v0.0.4.tar.gz
+ee8074409f1694e09b4b2a4b552d6faf44798fcc3b7417db8061133ebf5bea38  autobumper-linux-arm-v0.0.4.tar.gz
+42743a624cb183a100917cb0b6e85ade0c65239c22e96e73d4457ce635fd0f35  autobumper-linux-arm64-v0.0.4.tar.gz
+381b744009e8c28433fbfa4a47e6cf1d1b127c6e6ff15ecd8c5a25435fcc834c  autobumper-windows-386-v0.0.4.tar.gz
+af93e9d9ed23bd63bf51643de8f1652b9a09d7ccdb1d1ef2630022fcb64c173d  autobumper-windows-amd64-v0.0.4.tar.gz
+20156f5999f2459ac160087bb6cb6d304ce6f2cd2a1a118f36597a5d8b069b42  autobumper-windows-arm64-v0.0.4.tar.gz
